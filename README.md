@@ -1,5 +1,4 @@
-# webscraping_project
-Personal project relating to web scraping using Python
-Beginner level, so any feedback will be greatly appreciated.
+# Webscraping Project
+Personal project relating to web-scraping using Python.
 
-<li>Project 001: Extract pokemon statistics from www.pokemondb.com using pandas, BeautifulSoup,request and numpy</li>
+<li>Project 001: Data Extraction - Extracting pokemon statistics from www.pokemondb.com using pandas, BeautifulSoup,request and numpy</li>
